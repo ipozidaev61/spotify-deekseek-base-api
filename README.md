@@ -13,7 +13,7 @@
 ### 1. Клонируй проект и перейди в папку
 ```bash
 git clone https://github.com/ipozidaev61/spotify-deekseek-base-api.git
-cd bridge-server
+cd spotify-deekseek-base-api
 ```
 
 ### 2. Установи зависимости
@@ -33,7 +33,7 @@ REFRESH_TOKEN=your_spotify_refresh_token
 ## Запуск
 
 ```bash
-python main.py
+python app.py
 ```
 
 Сервер запустится по адресу: `http://127.0.0.1:8000`
